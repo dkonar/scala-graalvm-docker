@@ -4,7 +4,7 @@ Scala: 2.12.6
 
 SBT: 1.1.5
 
-GraalVM: 1.0.0-RC1
+GraalVM: 1.0.0-RC16
 
 
 ## License
